@@ -1,0 +1,25 @@
+.about {
+    display: flex;
+}
+.about-left-side {
+    background-image: url("../About/aboutimg/about.jpg");
+    width: 45%;
+    height: 600px;
+    background-size: cover;
+}
+
+.about-txt {
+    font-weight: normal;
+    font-size: 16px;
+}
+.about-title {
+    font-weight: bold;
+    font-size: 30px;
+    width: 100%;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.f-s-30 {
+font-size: 30px;
+}
